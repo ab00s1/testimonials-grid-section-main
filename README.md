@@ -1,6 +1,6 @@
 # Frontend Mentor - Testimonials grid section
 
-## The challenge is to design following responsive design using HTML and CSS
+## The challenge is to design following responsive webpage using HTML and CSS
 
 ![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
 
